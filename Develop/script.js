@@ -1,5 +1,3 @@
-// Assignment code here
-
 var enter;
 var confirmNumber;
 var confirmCharacter;
